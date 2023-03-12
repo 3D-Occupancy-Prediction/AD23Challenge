@@ -1,0 +1,15 @@
+[submodule "repos/CVPR2023-3D-Occupancy-Prediction"]
+	path = repos/CVPR2023-3D-Occupancy-Prediction
+	url = git@github.com:CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction.git
+[submodule "repos/MonoScene"]
+	path = repos/MonoScene
+	url = git@github.com:astra-vision/MonoScene.git
+[submodule "repos/OccDepth"]
+	path = repos/OccDepth
+	url = git@github.com:megvii-research/OccDepth.git
+[submodule "repos/VoxFormer"]
+	path = repos/VoxFormer
+	url = https://github.com/NVlabs/VoxFormer.git
+[submodule "repos/TPVFormer"]
+	path = repos/TPVFormer
+	url = git@github.com:wzzheng/TPVFormer.git
