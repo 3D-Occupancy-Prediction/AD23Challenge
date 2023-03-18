@@ -13,3 +13,6 @@
 [submodule "repos/TPVFormer"]
 	path = repos/TPVFormer
 	url = git@github.com:wzzheng/TPVFormer.git
+[submodule "repos/SurroundOcc"]
+	path = repos/SurroundOcc
+	url = https://github.com/weiyithu/SurroundOcc.git
