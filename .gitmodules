@@ -16,3 +16,6 @@
 [submodule "repos/SurroundOcc"]
 	path = repos/SurroundOcc
 	url = https://github.com/weiyithu/SurroundOcc.git
+[submodule "repos/OpenOcc"]
+	path = repos/OpenOcc
+	url = git@github.com:wzzheng/OpenOcc.git
